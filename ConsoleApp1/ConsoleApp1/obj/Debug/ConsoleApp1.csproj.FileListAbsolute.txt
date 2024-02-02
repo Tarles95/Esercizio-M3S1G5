@@ -1,0 +1,7 @@
+C:\Users\mario\Documents\GitHub\Esercizio-M3S1G2\1 settimana C#\5 giorno\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\mario\Documents\GitHub\Esercizio-M3S1G2\1 settimana C#\5 giorno\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\GitHub\Esercizio-M3S1G2\1 settimana C#\5 giorno\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mario\Documents\GitHub\Esercizio-M3S1G2\1 settimana C#\5 giorno\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mario\Documents\GitHub\Esercizio-M3S1G2\1 settimana C#\5 giorno\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mario\Documents\GitHub\Esercizio-M3S1G2\1 settimana C#\5 giorno\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mario\Documents\GitHub\Esercizio-M3S1G2\1 settimana C#\5 giorno\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
